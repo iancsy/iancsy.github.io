@@ -12,38 +12,9 @@
 
  - TVbox开源版---密123  https://tsq.lanzouf.com/b0c4nr91c#123  
 
- - TVbox2022 https://pan.quark.cn/s/4990bab723a1
-
- - 猫影视TV999内置源版  https://pan.lanzoui.com/b0c3cb92f  
-
 ### 3. 半自动工具Vivi TV Pro  
 
 - 下载地址1： https://wklb258.lanzouu.com/iDv8p0754huj  
-- 下载地址2： https://pan.quark.cn/s/c281c158f236  
-
-### 4. 使用设置  
-
-1). 配置地址---输入站源---确定即可  
-- URL站源规则 `https://shuyuan.miaogongzi.net/shuyuan/1656721538.json`
-
-2). 开启存储权限——将你的猫影视站源接口文件放到根目录下  
-- 本地配置规则 clan://localhost/Download/BroWser/   
-
-本地配置地址 (三选一 \ 切换着看) [TVBox.Quark下载](https://pan.quark.cn/s/ac29d8ad60ed) [TVBox.Lanzou下载](https://melor.lanzoub.com/irfJ1071czne)    
-● 本地配置地址1：clan://localhost/TVBox/ts.json    
-● 本地配置地址2：clan://localhost/TVBox/bc.json   
-● 本地配置地址3：clan://localhost/TVBox/xm.json   
-
-3). 使用半自动工具ViViTV  
-- 一款实时更新的第三方工具箱，一键安装软件，一键配置接口   
-
---------
-![TVbox01](https://liu673cn.github.io/mao/sub/TVbox/TVbox01.jpg) <br />
-![TVbox02](https://liu673cn.github.io/mao/sub/TVbox/TVbox02.jpg) <br />
-![TVbox03](https://liu673cn.github.io/mao/sub/TVbox/TVbox03.jpg) <br />
-![TVbox04](https://liu673cn.github.io/mao/sub/TVbox/TVbox04.jpg) <br />
-
---------
 
 ### Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn
@@ -60,4 +31,3 @@ https://gitlab.com/liu673cn/mao/-/raw/main/m
 
 --------
 ### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集，自用请勿宣传。
-
