@@ -1,5 +1,5 @@
 {
-"spider":"https://iancsy.github.io/TVB/jar/bc0701.jar",
+"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/bmO9ExCY/KfNqxp5T-dsk-8BusRCiPXdtdSrdl4rVifV_qpuHr04*",
 "sites":[
 {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
